@@ -1,4 +1,4 @@
 ---
-title: Welcome to Zhida's blog
+Welcome to Zhida's blog
 ---
 
